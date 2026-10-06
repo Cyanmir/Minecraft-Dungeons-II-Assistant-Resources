@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Wolfpack Hood",
   "SW.Item.WolfclutchHelmet_Unique": "Packleader Muzzle",
   "SW.Item.WolfclutchLeggings": "Wolfpack Leggings",
-  "SW.Item.WolfclutchLeggings_Unique": "Packleader Fur Chaps"
+  "SW.Item.WolfclutchLeggings_Unique": "Packleader Fur Chaps",
+  "Currency_Emerald": "Emeralds",
+  "Currency_SpringStone": "Echo Shards",
+  "Currency_EnchantmentPoint": "Enchantment points"
 }

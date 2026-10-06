@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Cappuccio del branco",
   "SW.Item.WolfclutchHelmet_Unique": "Muso del capobranco",
   "SW.Item.WolfclutchLeggings": "Gambiere del branco",
-  "SW.Item.WolfclutchLeggings_Unique": "Gambali del capobranco"
+  "SW.Item.WolfclutchLeggings_Unique": "Gambali del capobranco",
+  "Currency_Emerald": "Smeraldi",
+  "Currency_SpringStone": "Schegge di eco",
+  "Currency_EnchantmentPoint": "Punti incantesimo"
 }

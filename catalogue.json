@@ -1,6 +1,6 @@
 {
   "format": "MCD2.EquipmentPresentation.v1",
-  "revision": "2026.10.07.1",
+  "revision": "2026.10.07.2",
   "gameBuild": "1.1.1.0",
   "languages": [
     "zh-Hans",
@@ -7785,6 +7785,30 @@
       "유일",
       "獨特",
       "獨特"
+    ],
+    "Currency_Emerald": [
+      "绿宝石",
+      "Emeralds",
+      "エメラルド",
+      "에메랄드",
+      "綠寶石",
+      "綠寶石"
+    ],
+    "Currency_SpringStone": [
+      "回响碎片",
+      "Echo Shards",
+      "残響のかけら",
+      "에코 조각",
+      "回聲碎片",
+      "回聲碎片"
+    ],
+    "Currency_EnchantmentPoint": [
+      "附魔点数",
+      "Enchantment points",
+      "エンチャントポイント",
+      "마법 부여 포인트",
+      "附魔點數",
+      "附魔點數"
     ]
   },
   "iconSHA256": {
@@ -8192,5 +8216,22 @@
     "rarityUnique": "1beea0c214f4a1872f14.png"
   },
   "fallbackLanguages": {},
-  "origin": "Original game artwork/localization; respective owners retain rights. Presentation only, not a reroll catalogue."
+  "origin": "Original game artwork/localization; respective owners retain rights. Presentation only, not a reroll catalogue.",
+  "currencyTermSources": {
+    "Currency_Emerald": {
+      "namespace": "Text/Release/OnboardingLabels.csv",
+      "key": "tutoriallog_emeralds_title",
+      "sourceHash": 525187655
+    },
+    "Currency_SpringStone": {
+      "namespace": "Text/Release/OnboardingLabels.csv",
+      "key": "tutoriallog_springstones_title",
+      "sourceHash": 1328123844
+    },
+    "Currency_EnchantmentPoint": {
+      "namespace": "Text/Release/OnboardingLabels.csv",
+      "key": "tutoriallog_enchantmentpoints_title",
+      "sourceHash": 391879605
+    }
+  }
 }

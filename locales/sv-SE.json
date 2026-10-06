@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Vargflockens huva",
   "SW.Item.WolfclutchHelmet_Unique": "Flockledarens munstycke",
   "SW.Item.WolfclutchLeggings": "Vargflockens leggings",
-  "SW.Item.WolfclutchLeggings_Unique": "Flockledarens pälschaps"
+  "SW.Item.WolfclutchLeggings_Unique": "Flockledarens pälschaps",
+  "Currency_Emerald": "Smaragder",
+  "Currency_SpringStone": "Ekoskärvor",
+  "Currency_EnchantmentPoint": "Förtrollningspoäng"
 }

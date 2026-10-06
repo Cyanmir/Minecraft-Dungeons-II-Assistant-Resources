@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Capucha de manada de lobos",
   "SW.Item.WolfclutchHelmet_Unique": "Bozal de líder de la manada",
   "SW.Item.WolfclutchLeggings": "Grebas de manada de lobos",
-  "SW.Item.WolfclutchLeggings_Unique": "Chaparreras de piel de líder de la manada"
+  "SW.Item.WolfclutchLeggings_Unique": "Chaparreras de piel de líder de la manada",
+  "Currency_Emerald": "Esmeraldas",
+  "Currency_SpringStone": "Fragmentos resonantes",
+  "Currency_EnchantmentPoint": "Puntos de encantamiento"
 }

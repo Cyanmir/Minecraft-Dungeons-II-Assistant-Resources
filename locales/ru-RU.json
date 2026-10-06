@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Капюшон волчьей стаи",
   "SW.Item.WolfclutchHelmet_Unique": "Морда вожака стаи",
   "SW.Item.WolfclutchLeggings": "Поножи волчьей стаи",
-  "SW.Item.WolfclutchLeggings_Unique": "Меховые чапсы вожака стаи"
+  "SW.Item.WolfclutchLeggings_Unique": "Меховые чапсы вожака стаи",
+  "Currency_Emerald": "Изумруды",
+  "Currency_SpringStone": "Осколки эха",
+  "Currency_EnchantmentPoint": "Очки зачарования"
 }

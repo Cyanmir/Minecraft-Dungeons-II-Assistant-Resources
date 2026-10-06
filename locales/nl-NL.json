@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Wolvenroedelkap",
   "SW.Item.WolfclutchHelmet_Unique": "Roedelleidersnuit",
   "SW.Item.WolfclutchLeggings": "Wolvenroedelbroek",
-  "SW.Item.WolfclutchLeggings_Unique": "Bonten chaps van de roedelleider"
+  "SW.Item.WolfclutchLeggings_Unique": "Bonten chaps van de roedelleider",
+  "Currency_Emerald": "Smaragden",
+  "Currency_SpringStone": "Echoscherven",
+  "Currency_EnchantmentPoint": "Betoveringsboeken"
 }

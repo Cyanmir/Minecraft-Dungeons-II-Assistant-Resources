@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Wolfsrudelkapuze",
   "SW.Item.WolfclutchHelmet_Unique": "Rudelführerschnauze",
   "SW.Item.WolfclutchLeggings": "Wolfsrudelhose",
-  "SW.Item.WolfclutchLeggings_Unique": "Wolfsanführerfellchaps"
+  "SW.Item.WolfclutchLeggings_Unique": "Wolfsanführerfellchaps",
+  "Currency_Emerald": "Smaragde",
+  "Currency_SpringStone": "Echoscherben",
+  "Currency_EnchantmentPoint": "Verzauberungspunkte"
 }

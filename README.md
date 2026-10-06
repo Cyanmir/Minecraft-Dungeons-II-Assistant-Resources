@@ -5,7 +5,7 @@ Minecraft Dungeons II Assistant 的装备图标、品质框纹理与游戏内译
 - `manifest.json`：客户端读取的当前资源清单。
 - `packages/<sha256>.bin.gz`：不可变的完整显示资源包，供 MCD2A 下载。
 - `icons/`：装备图标、原始品质框背景与标记纹理。
-- `locales/`：19 种游戏语言的装备、词条名称，按原始标签索引。
+- `locales/`：19 种游戏语言的装备、词条和货币名称，装备/词条按原始标签索引，货币以 `Currency_*` 键索引。
 - `catalogue.json`：六界面语言显示名称、图标对应关系、原始译名标识和哈希。
 更新资源时，用自己的合法本地解析数据运行：
 

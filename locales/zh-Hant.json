@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "狼群兜帽",
   "SW.Item.WolfclutchHelmet_Unique": "領袖口套",
   "SW.Item.WolfclutchLeggings": "狼群護腿",
-  "SW.Item.WolfclutchLeggings_Unique": "領袖毛皮護褲"
+  "SW.Item.WolfclutchLeggings_Unique": "領袖毛皮護褲",
+  "Currency_Emerald": "綠寶石",
+  "Currency_SpringStone": "回聲碎片",
+  "Currency_EnchantmentPoint": "附魔點數"
 }

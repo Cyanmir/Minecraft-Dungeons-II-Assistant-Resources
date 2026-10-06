@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Kurt Sürüsü Başlığı",
   "SW.Item.WolfclutchHelmet_Unique": "Sürü Lideri Ağızlığı",
   "SW.Item.WolfclutchLeggings": "Kurt Sürüsü Tozluğu",
-  "SW.Item.WolfclutchLeggings_Unique": "Sürü Lideri Kürklü Çepsi"
+  "SW.Item.WolfclutchLeggings_Unique": "Sürü Lideri Kürklü Çepsi",
+  "Currency_Emerald": "Zümrütler",
+  "Currency_SpringStone": "Yankı Parçaları",
+  "Currency_EnchantmentPoint": "Büyü Puanları"
 }

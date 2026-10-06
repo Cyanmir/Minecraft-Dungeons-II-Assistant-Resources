@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Capuche de la meute",
   "SW.Item.WolfclutchHelmet_Unique": "Museau du chef de meute",
   "SW.Item.WolfclutchLeggings": "Jambières de la meute",
-  "SW.Item.WolfclutchLeggings_Unique": "Guêtres en fourrure du chef de meute"
+  "SW.Item.WolfclutchLeggings_Unique": "Guêtres en fourrure du chef de meute",
+  "Currency_Emerald": "Émeraudes",
+  "Currency_SpringStone": "Éclats d'écho",
+  "Currency_EnchantmentPoint": "Points d'enchantement"
 }

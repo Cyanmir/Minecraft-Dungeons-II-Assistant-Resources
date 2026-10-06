@@ -1,10 +1,10 @@
 {
   "format": "MCD2A.Resources.v1",
-  "revision": "2026.10.07.1",
+  "revision": "2026.10.07.2",
   "gameBuild": "1.1.1.0",
-  "sha256": "550b64cd797e2771c9c98621ee92ed5d2bb97668189b5f7e177e7fc23d709f93",
-  "bytes": 8215776,
-  "package": "packages/550b64cd797e2771c9c98621ee92ed5d2bb97668189b5f7e177e7fc23d709f93.bin.gz",
+  "sha256": "c3efa90405e1733a349fa718d9666e81f369e35be4192141bb5834b0e6c44ae8",
+  "bytes": 8216154,
+  "package": "packages/c3efa90405e1733a349fa718d9666e81f369e35be4192141bb5834b0e6c44ae8.bin.gz",
   "entries": 493,
   "icons": 392,
   "languages": [

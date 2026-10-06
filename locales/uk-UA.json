@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Каптур вовчої зграї",
   "SW.Item.WolfclutchHelmet_Unique": "Морда вожака зграї",
   "SW.Item.WolfclutchLeggings": "Наголінники вовчої зграї",
-  "SW.Item.WolfclutchLeggings_Unique": "Хутряні чапи вожака зграї"
+  "SW.Item.WolfclutchLeggings_Unique": "Хутряні чапи вожака зграї",
+  "Currency_Emerald": "Смарагди",
+  "Currency_SpringStone": "Ехові уламки",
+  "Currency_EnchantmentPoint": "Очки чарів"
 }

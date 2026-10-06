@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Kaptur sfory",
   "SW.Item.WolfclutchHelmet_Unique": "Pysk samca alfa",
   "SW.Item.WolfclutchLeggings": "Nogawice sfory",
-  "SW.Item.WolfclutchLeggings_Unique": "Czapsy samca alfa"
+  "SW.Item.WolfclutchLeggings_Unique": "Czapsy samca alfa",
+  "Currency_Emerald": "Szmaragdy",
+  "Currency_SpringStone": "Odłamki echa",
+  "Currency_EnchantmentPoint": "Punkty zaklęć"
 }

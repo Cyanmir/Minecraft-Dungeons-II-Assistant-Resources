@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "群狼のフード",
   "SW.Item.WolfclutchHelmet_Unique": "群狼の長の口輪",
   "SW.Item.WolfclutchLeggings": "群狼のレギンス",
-  "SW.Item.WolfclutchLeggings_Unique": "群狼の長のファーチャップス"
+  "SW.Item.WolfclutchLeggings_Unique": "群狼の長のファーチャップス",
+  "Currency_Emerald": "エメラルド",
+  "Currency_SpringStone": "残響のかけら",
+  "Currency_EnchantmentPoint": "エンチャントポイント"
 }

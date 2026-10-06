@@ -13,6 +13,15 @@ def build(assets, localization, output, revision):
     six = ['zh-Hans', 'en', 'ja-JP', 'ko-KR', 'zh-Hant', 'zh-Hant']
     names = {tag: value for tag, value in source['names'].items()
              if tag.startswith(('SW.Item.', 'SW.Effect.', 'SW.Enchantment.'))}
+    # 原生 SpringStone 的游戏显示名来自教程词条，不能按代码名自行翻译成“泉石”。
+    currency_keys = {'Currency_Emerald': 'tutoriallog_emeralds_title',
+                     'Currency_SpringStone': 'tutoriallog_springstones_title',
+                     'Currency_EnchantmentPoint': 'tutoriallog_enchantmentpoints_title'}
+    currency_sources = {}
+    for label, key in currency_keys.items():
+        matches = [i for i in tables['en'] if i[0] == 'Text/Release/OnboardingLabels.csv' and i[1] == key]
+        if len(matches) != 1: raise ValueError('Ambiguous currency localization: ' + key)
+        currency_sources[label] = matches[0]
     items, files, fallback = {}, set(), {}
     local_dir = output / 'locales'
     local_dir.mkdir(parents=True, exist_ok=True)
@@ -21,6 +30,8 @@ def build(assets, localization, output, revision):
         for tag, value in names.items():
             identity = (value['namespace'], value['key'], value['sourceHash'])
             if identity in table: localized[tag] = table[identity]
+        for label, identity in currency_sources.items():
+            if identity in table: localized[label] = table[identity]
         (local_dir / (lang + '.json')).write_text(json.dumps(localized, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     for tag, value in sorted(names.items()):
         identity = (value['namespace'], value['key'], value['sourceHash'])
@@ -37,6 +48,8 @@ def build(assets, localization, output, revision):
         matches = [i for i in tables['en'] if i[0] == 'Text/Release/InventoryLabels.csv' and i[1] == key]
         if len(matches) != 1: raise ValueError('Ambiguous localization identity: ' + key)
         terms[key] = [tables[l].get(matches[0], tables['en'][matches[0]]) for l in six]
+    for label, identity in currency_sources.items():
+        terms[label] = [tables[l].get(identity, tables['en'][identity]) for l in six]
     # UI 品质框来自原始纹理引用；只复制白名单，不遍历整套游戏资源。
     index = json.loads((assets.parent / 'catalogs' / 'item-definition-icons.json').read_text(encoding='utf-8-sig'))
     wanted = {'slotBackground': 'T_UI_Slot_Background', 'rarityMarkers': 'T_UI_SlotRarity_Markers',
@@ -60,6 +73,7 @@ def build(assets, localization, output, revision):
     catalogue = {'format': 'MCD2.EquipmentPresentation.v1', 'revision': revision, 'gameBuild': '1.1.1.0', 'languages': six,
                  'availableLanguages': sorted(tables), 'items': items, 'terms': terms, 'iconSHA256': icon_hashes, 'uiTextures': ui,
                  'fallbackLanguages': fallback, 'origin': 'Original game artwork/localization; respective owners retain rights. Presentation only, not a reroll catalogue.'}
+    catalogue['currencyTermSources'] = {label: {'namespace': i[0], 'key': i[1], 'sourceHash': i[2]} for label, i in currency_sources.items()}
     raw = json.dumps(catalogue, ensure_ascii=False, separators=(',', ':')).encode('utf-8')
     body = bytearray(b'M2EQ' + struct.pack('<I', len(raw)) + raw + struct.pack('<I', len(files)))
     for name in sorted(files):

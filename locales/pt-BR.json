@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "Capuz da Alcateia",
   "SW.Item.WolfclutchHelmet_Unique": "Focinheira do Alfa",
   "SW.Item.WolfclutchLeggings": "Perneiras da Alcateia",
-  "SW.Item.WolfclutchLeggings_Unique": "Chaparreiras de Pele do Alfa"
+  "SW.Item.WolfclutchLeggings_Unique": "Chaparreiras de Pele do Alfa",
+  "Currency_Emerald": "Esmeraldas",
+  "Currency_SpringStone": "Fragmentos de Eco",
+  "Currency_EnchantmentPoint": "Pontos de Encantamento"
 }

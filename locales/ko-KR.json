@@ -491,5 +491,8 @@
   "SW.Item.WolfclutchHelmet": "늑대 무리 후드",
   "SW.Item.WolfclutchHelmet_Unique": "우두머리 주둥이",
   "SW.Item.WolfclutchLeggings": "늑대 무리 각반",
-  "SW.Item.WolfclutchLeggings_Unique": "우두머리 털 가죽바지"
+  "SW.Item.WolfclutchLeggings_Unique": "우두머리 털 가죽바지",
+  "Currency_Emerald": "에메랄드",
+  "Currency_SpringStone": "에코 조각",
+  "Currency_EnchantmentPoint": "마법 부여 포인트"
 }
