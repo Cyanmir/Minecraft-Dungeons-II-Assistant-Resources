@@ -1,6 +1,6 @@
 {
   "format": "MCD2.EquipmentPresentation.v1",
-  "revision": "2026.10.07.2",
+  "revision": "2026.10.08.1",
   "gameBuild": "1.1.1.0",
   "languages": [
     "zh-Hans",
@@ -41,7 +41,9 @@
         "箭袋",
         "箭袋"
       ],
-      "icons": [],
+      "icons": [
+        "eb6af293baf0f5412905.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_AmmoCapacity_SW_TextEntry_Name",
       "sourceHash": 3916152877
@@ -55,7 +57,9 @@
         "煉金術士",
         "煉金術士"
       ],
-      "icons": [],
+      "icons": [
+        "63ab0bd1b07c2efa33bd.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_AnimaConduit_SW_TextEntry_Name",
       "sourceHash": 93153521
@@ -69,7 +73,9 @@
         "製弓師",
         "製弓師"
       ],
-      "icons": [],
+      "icons": [
+        "4f0d21f8b09a9a5429a5.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ArrowBurst_SW_TextEntry_Name",
       "sourceHash": 3455863399
@@ -83,7 +89,9 @@
         "文物",
         "文物"
       ],
-      "icons": [],
+      "icons": [
+        "8c10c33ffcc3fc962fe0.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ArtifactHealing_SW_TextEntry_Name",
       "sourceHash": 2555540567
@@ -97,7 +105,9 @@
         "獸群領袖",
         "獸群領袖"
       ],
-      "icons": [],
+      "icons": [
+        "e7d36ff70235cc5868b2.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_BeastBoss_SW_TextEntry_Name",
       "sourceHash": 1604285766
@@ -111,7 +121,9 @@
         "鎖縛",
         "鎖縛"
       ],
-      "icons": [],
+      "icons": [
+        "ba0bedc234325adc6802.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Chains_SW_TextEntry_Name",
       "sourceHash": 540743955
@@ -125,7 +137,9 @@
         "賞金獵人",
         "賞金獵人"
       ],
-      "icons": [],
+      "icons": [
+        "f1e13a65553368f63868.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Committed_SW_TextEntry_Name",
       "sourceHash": 2411451500
@@ -139,7 +153,9 @@
         "復原",
         "復原"
       ],
-      "icons": [],
+      "icons": [
+        "74e6df87b0ed88c6b131.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Constitution_SW_TextEntry_Name",
       "sourceHash": 43709881
@@ -153,7 +169,9 @@
         "冷卻",
         "冷卻"
       ],
-      "icons": [],
+      "icons": [
+        "a7357d3bd874dbc20fd0.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Cooldown_SW_TextEntry_Name",
       "sourceHash": 4209111517
@@ -167,7 +185,9 @@
         "致命鋒刃",
         "致命鋒刃"
       ],
-      "icons": [],
+      "icons": [
+        "9c2051c7c55354f8a2ee.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_CriticalEdge_SW_TextEntry_Name",
       "sourceHash": 2703163953
@@ -181,7 +201,9 @@
         "暴擊",
         "暴擊"
       ],
-      "icons": [],
+      "icons": [
+        "238f58e3ea2201386af0.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_CriticalHit_SW_TextEntry_Name",
       "sourceHash": 1445469136
@@ -195,7 +217,9 @@
         "偏轉",
         "偏轉"
       ],
-      "icons": [],
+      "icons": [
+        "64d66ef76dc8dd0d97db.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Deflect_SW_TextEntry_Name",
       "sourceHash": 1360914024
@@ -209,7 +233,9 @@
         "背水一戰",
         "背水一戰"
       ],
-      "icons": [],
+      "icons": [
+        "0bf7037986a7fecda138.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Desperation_SW_TextEntry_Name",
       "sourceHash": 3064549618
@@ -223,7 +249,9 @@
         "DropChance_TalismanEffect",
         "DropChance_TalismanEffect"
       ],
-      "icons": [],
+      "icons": [
+        "ed482d653323ade030e5.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_DropChance_SW_TextEntry_Name",
       "sourceHash": 1148965732
@@ -237,7 +265,9 @@
         "決鬥者",
         "決鬥者"
       ],
-      "icons": [],
+      "icons": [
+        "66738c662e77743b23cb.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Duelist_SW_TextEntry_Name",
       "sourceHash": 1292815675
@@ -251,7 +281,9 @@
         "瞄準",
         "瞄準"
       ],
-      "icons": [],
+      "icons": [
+        "79006748b2bb424eb1fd.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_EagleEye_SW_TextEntry_Name",
       "sourceHash": 3606817214
@@ -265,7 +297,9 @@
         "隨機術士",
         "隨機術士"
       ],
-      "icons": [],
+      "icons": [
+        "099a425a6cf245a66462.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ElementalHit_SW_TextEntry_Name",
       "sourceHash": 578534437
@@ -279,7 +313,9 @@
         "元素防護",
         "元素防護"
       ],
-      "icons": [],
+      "icons": [
+        "8532c919972d071b93bc.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ElementalProtection_SW_TextEntry_Name",
       "sourceHash": 2515748838
@@ -293,7 +329,9 @@
         "探勘師",
         "探勘師"
       ],
-      "icons": [],
+      "icons": [
+        "2ec438fd562283e4fc8d.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_EmeraldsIncrease_SW_TextEntry_Name",
       "sourceHash": 1215350695
@@ -307,7 +345,9 @@
         "圖騰共鳴",
         "圖騰共鳴"
       ],
-      "icons": [],
+      "icons": [
+        "85aed3853d2a092c62f3.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Expand_SW_TextEntry_Name",
       "sourceHash": 2009623606
@@ -321,7 +361,9 @@
         "天才",
         "天才"
       ],
-      "icons": [],
+      "icons": [
+        "065dfb6a843a65e557fc.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ExperienceIncrease_SW_TextEntry_Name",
       "sourceHash": 1325598613
@@ -335,7 +377,9 @@
         "爆破技藝",
         "爆破技藝"
       ],
-      "icons": [],
+      "icons": [
+        "4de515d13ae6a8638b10.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ExplosiveStrike_SW_TextEntry_Name",
       "sourceHash": 3043960726
@@ -349,7 +393,9 @@
         "靈巧",
         "靈巧"
       ],
-      "icons": [],
+      "icons": [
+        "8db1be21c32dff015836.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Finesse_SW_TextEntry_Name",
       "sourceHash": 1803962908
@@ -363,7 +409,9 @@
         "炮烙術士",
         "炮烙術士"
       ],
-      "icons": [],
+      "icons": [
+        "169d38fd68ab07b7872c.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_FireFocus_SW_TextEntry_Name",
       "sourceHash": 3651701830
@@ -377,7 +425,9 @@
         "炫富投射器",
         "炫富投射器"
       ],
-      "icons": [],
+      "icons": [
+        "bd92504d10e10847bb32.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_FiringEmerald_SW_TextEntry_Name",
       "sourceHash": 3018415328
@@ -391,7 +441,9 @@
         "獸醫",
         "獸醫"
       ],
-      "icons": [],
+      "icons": [
+        "b24f091694011f615228.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_FriendsForever_SW_TextEntry_Name",
       "sourceHash": 552918729
@@ -405,7 +457,9 @@
         "牧者",
         "牧者"
       ],
-      "icons": [],
+      "icons": [
+        "881d77cb06b4962af6b5.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Friendship_SW_TextEntry_Name",
       "sourceHash": 2973753265
@@ -419,7 +473,9 @@
         "冰霜術士",
         "冰霜術士"
       ],
-      "icons": [],
+      "icons": [
+        "bced0913c66845d94246.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_FrostFocus_SW_TextEntry_Name",
       "sourceHash": 968411403
@@ -433,7 +489,9 @@
         "刺客",
         "刺客"
       ],
-      "icons": [],
+      "icons": [
+        "5568198b611f2590a9f1.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Gambler_SW_TextEntry_Name",
       "sourceHash": 3687821178
@@ -447,7 +505,9 @@
         "裝填彈藥",
         "裝填彈藥"
       ],
-      "icons": [],
+      "icons": [
+        "1ffc56eb0f530c8df12d.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Hairtrigger_SW_TextEntry_Name",
       "sourceHash": 1264832226
@@ -461,7 +521,9 @@
         "治療者",
         "治療者"
       ],
-      "icons": [],
+      "icons": [
+        "f95115d4e645f98dae22.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_HealingFocus_SW_TextEntry_Name",
       "sourceHash": 2966607742
@@ -475,7 +537,9 @@
         "體魄",
         "體魄"
       ],
-      "icons": [],
+      "icons": [
+        "4fbbee73a752cfd8888c.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_HealthBoost_SW_TextEntry_Name",
       "sourceHash": 2932958149
@@ -489,7 +553,9 @@
         "活力一擊",
         "活力一擊"
       ],
-      "icons": [],
+      "icons": [
+        "a0ac7c3c4b38ed587e71.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_HealthyStrike_SW_TextEntry_Name",
       "sourceHash": 200588430
@@ -503,7 +569,9 @@
         "跳躍射擊",
         "跳躍射擊"
       ],
-      "icons": [],
+      "icons": [
+        "22f5b32054601c133a80.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Jumpshot_SW_TextEntry_Name",
       "sourceHash": 3905154017
@@ -517,7 +585,9 @@
         "擊退",
         "擊退"
       ],
-      "icons": [],
+      "icons": [
+        "6446a3572c859c2b3b5b.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Knockback_SW_TextEntry_Name",
       "sourceHash": 3637305066
@@ -531,7 +601,9 @@
         "雷電術士",
         "雷電術士"
       ],
-      "icons": [],
+      "icons": [
+        "14c5d534d8b413305953.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_LightningFocus_SW_TextEntry_Name",
       "sourceHash": 1263857395
@@ -545,7 +617,9 @@
         "奪寶者",
         "奪寶者"
       ],
-      "icons": [],
+      "icons": [
+        "389de2bb27a5b15a1953.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Looting_SW_TextEntry_Name",
       "sourceHash": 2757199030
@@ -559,7 +633,9 @@
         "幸運",
         "幸運"
       ],
-      "icons": [],
+      "icons": [
+        "e03ae1363b55443e624d.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Lucky_SW_TextEntry_Name",
       "sourceHash": 1800228825
@@ -573,7 +649,9 @@
         "致命射手",
         "致命射手"
       ],
-      "icons": [],
+      "icons": [
+        "ff22f8f267c78a995b5c.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_MasterMarksman_SW_TextEntry_Name",
       "sourceHash": 2979613344
@@ -587,7 +665,9 @@
         "強力",
         "強力"
       ],
-      "icons": [],
+      "icons": [
+        "8975ad49715901089a23.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_MasterStrike_SW_TextEntry_Name",
       "sourceHash": 389308617
@@ -601,7 +681,9 @@
         "遊俠",
         "遊俠"
       ],
-      "icons": [],
+      "icons": [
+        "d7785ca56bb0820b6c84.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_MultiShot_SW_TextEntry_Name",
       "sourceHash": 1964667039
@@ -615,7 +697,9 @@
         "惡霸",
         "惡霸"
       ],
-      "icons": [],
+      "icons": [
+        "c5c71eb12346af37786a.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Opportunist_SW_TextEntry_Name",
       "sourceHash": 3925301363
@@ -629,7 +713,9 @@
         "掠奪者",
         "掠奪者"
       ],
-      "icons": [],
+      "icons": [
+        "ff5aadbca10eecc05810.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Opulence_SW_TextEntry_Name",
       "sourceHash": 4286405146
@@ -643,7 +729,9 @@
         "躍擊者",
         "躍擊者"
       ],
-      "icons": [],
+      "icons": [
+        "29ecba835d3a54a82aae.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Plummeting_SW_TextEntry_Name",
       "sourceHash": 3502696796
@@ -657,7 +745,9 @@
         "近距離射擊",
         "近距離射擊"
       ],
-      "icons": [],
+      "icons": [
+        "30000c633877c9059d9d.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_PointBlank_SW_TextEntry_Name",
       "sourceHash": 2015991604
@@ -671,7 +761,9 @@
         "劇毒術士",
         "劇毒術士"
       ],
-      "icons": [],
+      "icons": [
+        "c88dbd2a049edc617831.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_PoisonFocus_SW_TextEntry_Name",
       "sourceHash": 2863080996
@@ -685,7 +777,9 @@
         "藥劑師",
         "藥劑師"
       ],
-      "icons": [],
+      "icons": [
+        "21dbebc33799682925c2.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_PotionCooldown_SW_TextEntry_Name",
       "sourceHash": 1906529750
@@ -699,7 +793,9 @@
         "衝擊",
         "衝擊"
       ],
-      "icons": [],
+      "icons": [
+        "84525cf1c4568190657c.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Power_SW_TextEntry_Name",
       "sourceHash": 2580061265
@@ -713,7 +809,9 @@
         "精準",
         "精準"
       ],
-      "icons": [],
+      "icons": [
+        "8052e1eda44413729a65.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Precision_SW_TextEntry_Name",
       "sourceHash": 1211264547
@@ -727,7 +825,9 @@
         "投射物防護",
         "投射物防護"
       ],
-      "icons": [],
+      "icons": [
+        "b52c0a4952ed70abab5c.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ProjectileProtection_SW_TextEntry_Name",
       "sourceHash": 1146318550
@@ -741,7 +841,9 @@
         "防護",
         "防護"
       ],
-      "icons": [],
+      "icons": [
+        "db06d37d10f3f98f6cb0.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Protection_SW_TextEntry_Name",
       "sourceHash": 3434409914
@@ -755,7 +857,9 @@
         "迅捷",
         "迅捷"
       ],
-      "icons": [],
+      "icons": [
+        "f970ee6d411158ace243.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_RapidStrike_SW_TextEntry_Name",
       "sourceHash": 2051988049
@@ -769,7 +873,9 @@
         "製箭師",
         "製箭師"
       ],
-      "icons": [],
+      "icons": [
+        "73ead62fe1225e226c6b.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Reconstruction_SW_TextEntry_Name",
       "sourceHash": 2742332375
@@ -783,7 +889,9 @@
         "動能",
         "動能"
       ],
-      "icons": [],
+      "icons": [
+        "e1a79b7fd1027502cc95.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Reeling_SW_TextEntry_Name",
       "sourceHash": 2828314624
@@ -797,7 +905,9 @@
         "再生",
         "再生"
       ],
-      "icons": [],
+      "icons": [
+        "bb380d9c86693456d9e4.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Regeneration_SW_TextEntry_Name",
       "sourceHash": 246162638
@@ -811,7 +921,9 @@
         "韌性",
         "韌性"
       ],
-      "icons": [],
+      "icons": [
+        "e886849fc61c9dbd6257.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Resilience_SW_TextEntry_Name",
       "sourceHash": 3534541295
@@ -825,7 +937,9 @@
         "特技",
         "特技"
       ],
-      "icons": [],
+      "icons": [
+        "a318e515ac38a22e7e18.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_RollCooldown_SW_TextEntry_Name",
       "sourceHash": 3799826979
@@ -839,7 +953,9 @@
         "污染",
         "污染"
       ],
-      "icons": [],
+      "icons": [
+        "a6c485260e33d70528b3.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Saboteur_SW_TextEntry_Name",
       "sourceHash": 1825596960
@@ -853,7 +969,9 @@
         "潛行",
         "潛行"
       ],
-      "icons": [],
+      "icons": [
+        "fc53aae2c49f93043006.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_ShadowWalk_SW_TextEntry_Name",
       "sourceHash": 1386110696
@@ -867,7 +985,9 @@
         "鋒利",
         "鋒利"
       ],
-      "icons": [],
+      "icons": [
+        "9326651296ec21f922d2.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Sharpness_SW_TextEntry_Name",
       "sourceHash": 1773760682
@@ -881,7 +1001,9 @@
         "閃避",
         "閃避"
       ],
-      "icons": [],
+      "icons": [
+        "d0a8fc1fb77cbf42c44a.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Sidestep_SW_TextEntry_Name",
       "sourceHash": 641054828
@@ -895,7 +1017,9 @@
         "狙擊手",
         "狙擊手"
       ],
-      "icons": [],
+      "icons": [
+        "9252f55e308fab4f1a84.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Sniper_SW_TextEntry_Name",
       "sourceHash": 232364447
@@ -909,7 +1033,9 @@
         "靈魂詛咒",
         "靈魂詛咒"
       ],
-      "icons": [],
+      "icons": [
+        "bcd3245d57c9e2a3a839.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SoulCurse_SW_TextEntry_Name",
       "sourceHash": 1597471882
@@ -923,7 +1049,9 @@
         "靈魂術士",
         "靈魂術士"
       ],
-      "icons": [],
+      "icons": [
+        "ad9ab0a18fb716a880e5.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SoulFocus_SW_TextEntry_Name",
       "sourceHash": 1641987292
@@ -937,7 +1065,9 @@
         "SoulGather_TalismanEffect",
         "SoulGather_TalismanEffect"
       ],
-      "icons": [],
+      "icons": [
+        "aa6d313b3895ab6aab88.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SoulGather_SW_TextEntry_Name",
       "sourceHash": 1005736508
@@ -951,7 +1081,9 @@
         "死神",
         "死神"
       ],
-      "icons": [],
+      "icons": [
+        "aa6d313b3895ab6aab88.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SoulGatherMultiply_SW_TextEntry_Name",
       "sourceHash": 3449682063
@@ -965,7 +1097,9 @@
         "靈能",
         "靈能"
       ],
-      "icons": [],
+      "icons": [
+        "a21a5545711833b00490.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SoulMax_SW_TextEntry_Name",
       "sourceHash": 2856951039
@@ -979,7 +1113,9 @@
         "快速",
         "快速"
       ],
-      "icons": [],
+      "icons": [
+        "058baed67b7e8cc5d697.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SpeedBoost_SW_TextEntry_Name",
       "sourceHash": 916110334
@@ -993,7 +1129,9 @@
         "速度提升",
         "速度提升"
       ],
-      "icons": [],
+      "icons": [
+        "919183979fb08b125b59.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SpeedIncrement_SW_TextEntry_Name",
       "sourceHash": 2308864171
@@ -1007,7 +1145,9 @@
         "增益",
         "增益"
       ],
-      "icons": [],
+      "icons": [
+        "e19d4181ffc8c4a70a80.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_StatusBuff_SW_TextEntry_Name",
       "sourceHash": 3675059563
@@ -1021,7 +1161,9 @@
         "強化打擊",
         "強化打擊"
       ],
-      "icons": [],
+      "icons": [
+        "097901f50e268ddc4308.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_StatusOnHit_Strength_SW_TextEntry_Name",
       "sourceHash": 1314270291
@@ -1035,7 +1177,9 @@
         "神射手",
         "神射手"
       ],
-      "icons": [],
+      "icons": [
+        "361889862f97a520056c.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Supercharge_SW_TextEntry_Name",
       "sourceHash": 2989338533
@@ -1049,7 +1193,9 @@
         "鬥士",
         "鬥士"
       ],
-      "icons": [],
+      "icons": [
+        "2234e1cae4bb141401fb.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SweepingEdge_SW_TextEntry_Name",
       "sourceHash": 2359761432
@@ -1063,7 +1209,9 @@
         "潛獵者",
         "潛獵者"
       ],
-      "icons": [],
+      "icons": [
+        "16b4ba99585a75758487.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_SwiftSneak_SW_TextEntry_Name",
       "sourceHash": 2372631189
@@ -1077,7 +1225,9 @@
         "尖刺",
         "尖刺"
       ],
-      "icons": [],
+      "icons": [
+        "d5e6af467baa752697fc.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Thorns_SW_TextEntry_Name",
       "sourceHash": 2273894652
@@ -1091,7 +1241,9 @@
         "先鋒",
         "先鋒"
       ],
-      "icons": [],
+      "icons": [
+        "dde90e9863329e96bf59.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Vanguard_SW_TextEntry_Name",
       "sourceHash": 1519323740
@@ -1105,7 +1257,9 @@
         "術士",
         "術士"
       ],
-      "icons": [],
+      "icons": [
+        "0ab69a874f41a8da5d93.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Vestige_SW_TextEntry_Name",
       "sourceHash": 3337417756
@@ -1119,7 +1273,9 @@
         "盟友",
         "盟友"
       ],
-      "icons": [],
+      "icons": [
+        "13fd0a781999aa2ae810.png"
+      ],
       "namespace": "Text/Release/DT_EffectDefinition.csv",
       "key": "SW_Effect_Vivify_SW_TextEntry_Name",
       "sourceHash": 3498465109
@@ -7821,7 +7977,9 @@
     "04ee4af3bd49a8b55fb6.png": "a47120d4d601e501a8a928e137961cb6d6351f4564f9a041bfc3d352ff092f3f",
     "0529a3680f31dbdf13ee.png": "78e90b229d94f94dcd9c93e593209eb34c77981939e1a9537b242401ec928c4f",
     "052c4e7803aedd79253a.png": "eba27bfa41a48fca8eb0c1a334054173e84557f2f0be58fc7abef8fcbfc16a5f",
+    "058baed67b7e8cc5d697.png": "381d264d6ae3df00d2c08bf5fca999b981f19526a715bdf8dfe936a73403fa5d",
     "05f0f8558a3f5cbc7620.png": "247e0e0a99f0b4e043b9ed875cf88768e5ef33ab3337bee6318399b26593516f",
+    "065dfb6a843a65e557fc.png": "aaeda1ce0220cb288547b8c9853efdf58161fc52796c214fe4ee8d8aee74d727",
     "073970ac253b41bbbe9d.png": "b9dd6f62d3594441ff542f391c370108119fd633253a9a5d6eca090563e72a26",
     "07d01833a283b321d4e5.png": "8ae29f9df8046308f90f287c81a1e7b941ce6a3ab38e873701c6e965f8fb98c3",
     "08056e78932c414bb2bf.png": "a35374f8d09b338a78153adba05dea0833e995dccf2586cad5d18d07b819591e",
@@ -7832,8 +7990,12 @@
     "08eab048fb0e664a80ac.png": "93ad021013c2c4c273a3486baafe4e9080e74b48d82ae5fbbf4a37082f9ad928",
     "0926c1be675e2239d1b0.png": "dc7b9d621739e1d88c496308066433fecf7e4af1972228c963b455f6f87e17ee",
     "0931ec1b79f412dcecf7.png": "b37c659d12055279c6d9ea936bad8a5fc234f4aacf4f917396526d3ff60b2f7d",
+    "097901f50e268ddc4308.png": "c9e68cf51625193c3d792c2a03715b864d06505dd328d81b203e7b6e521c289d",
     "09878b111c43e4c5f664.png": "3f42ac7a88f335df20b8c815bf94b0bc61d168390aa604a1f7d4893e902f97ec",
+    "099a425a6cf245a66462.png": "17dde976ef09217b2685a0bc7d025da3296533dd6da23d034340e0d676b2f12d",
     "0a78a9fd725f5e476374.png": "69f26576bbd2338887969667825da8994106179653346819721ba03d1abeae12",
+    "0ab69a874f41a8da5d93.png": "9df61fb41c213d61dcfd5b16d973241e52a54af37139ab4eedc1ed104f1c38cd",
+    "0bf7037986a7fecda138.png": "5f574c04c47cafd1b32510d1402c4ad4fc9540313fce6363402646c73eab3c39",
     "0d18ea24e195f8c226c7.png": "cb15e9d1b8d285f2c79a856566728162fed7c84cdfcbd866284fa567d8fcbfcb",
     "0da190f67ee6d1bc52ef.png": "b5f6de70152ab41a6719c208e3a0f7fa84008c340a9ce48fac6f4813e570bcb3",
     "0db7ac8a34b09dba7149.png": "c693128188a43941580d730a5fe45d6b2fc390595ae4e881e2be6948860f6e8a",
@@ -7846,9 +8008,13 @@
     "12b839c19b3719738902.png": "9293a08fc1cab10bdf4ecc71228d30e8c1e0925e5b02aa4226df4a4db29f83c1",
     "135180a3e60eb47ad3a2.png": "d24103a62ac16d0a3a1672f641545a24b6fc6a2ee92df86436e827d0f2fa7123",
     "139ca6a1ed484e2bec8d.png": "28fc6a9ea525cb78770522b7c7dc9697fbad96d6b426e2a69742e3ca566d2fc2",
+    "13fd0a781999aa2ae810.png": "5df35fb341dcc4a3d22480ec4f51e59474faa69208e003ec4fac66fb12d45e80",
+    "14c5d534d8b413305953.png": "cd0008e8c69da47a5b48cdb86478ef4cb1c998aa464b93eeb56a3e23b63085c6",
     "14db27946808519b91f8.png": "781f03242609d8e26d3cd8d138adb781b7dc38e261e12c5541a540e59f8570f4",
     "152d02055b4db41ae7bc.png": "5cffd333f99e98b2968f26b4b4432923d9586014aaff36c171f35bcd2385fdc6",
     "1623801bea832c7370f3.png": "722ccb449fc13832ea65b5b9e07211c2e4d9aa3c8b85bbdff5f50deaf261a559",
+    "169d38fd68ab07b7872c.png": "c6a2dd65fb4c6e6eb032c8b2d9fd94c6358147a5024f609000ba96a31b7d1684",
+    "16b4ba99585a75758487.png": "8f576bb97bd0390eba283392d7983fc09670fda8de5503cd0fc2c8f7d7d1b543",
     "17ad7a2965fd94e46bf7.png": "38446a0e8555c330d22ad0dd255bdedb38865e4829a8b518716adbe1d67d9ef1",
     "188f70b95c0720f073f3.png": "17609fe73b6d7586e093f26a9cba6aeb0336c2043695ca18007ce80743430e2a",
     "195e87076c89a2bd9aa3.png": "c1239aede5bfa6f6515b3076fa83bcd7f7a93685d37bb4506b48600978b7c80d",
@@ -7867,15 +8033,20 @@
     "1e91851121df72c48b10.png": "1900da8b635bd80fe7a0506900b88db0278241ca2809296c94ef35e250390ba4",
     "1f1c0d318e2bd58996ae.png": "5f0f4a064dbb16bc86ea29a2340170d6791b3f2f642231131db09be3dc504d63",
     "1f9661947c11a976ad62.png": "90b5d22507b5ac04461782bf40e118e9b2a3b8fcaf2b1c5ccab25a7a3e971057",
+    "1ffc56eb0f530c8df12d.png": "aaaac1b493fe1e590bc2980a03f11d58cb3a503605a2dec517aac6382921ced0",
     "200cd545a6b1dad17d01.png": "7825db9e890903100e36cf56f665b302323a51f96b76739c5cd3c952894cd055",
     "20e9d65e49725bd66051.png": "4a940da4be4e9403e3a75295fdc6d3f0f7f30944de6133c11cc38abb2d66420d",
     "21b734bbaa76d7e4ca56.png": "17c36ffcd9fbde2fd6b4ecc8ffcfd76e3086ec8142d07336a9f1486b04c2b699",
     "21d06712d475702e7438.png": "9688c5c59cb5234f881fbbbcb77713ed0693237150a2274ae72222f448ca2047",
+    "21dbebc33799682925c2.png": "80aa0d7d4f67f14dca3c7edab04ae6b5165c44e6442dc443edb9a2d7e9dd1374",
     "21f2175836d208430bc2.png": "f1e286eb99a21f9173b2f7cfd048127a9a183df46c9176d183a180284fbac285",
     "221034edd15e9d610f07.png": "ce292de8fbcc69c442fe3b86021797025af3ede4a39bd9243b8ac1968ef6dae6",
+    "2234e1cae4bb141401fb.png": "03c07161fe526dedb995f4852992b1cf28b3efc1e9d73cda5a76ddb4ac4e5e44",
     "224619150beb9f370ac1.png": "82335b47fbdbcd4a7829612b88d6c55fa0eba1715395ff24248e79230754aaaf",
     "227a422d3165cd4cd33a.png": "a9ef66ef4fe49d892a328ef740ab76db945dce6088f8607ad3275a0d0fd4cf38",
+    "22f5b32054601c133a80.png": "946f9c714260ee87c1675c86c10c4d0312aec95f9dc8ea93f89bd4f08052ee8b",
     "231e48afb13ac19e56cd.png": "9f9ab4859203f2666d3403de1af90d6d22289ad5cec786d726777c471fd3f58d",
+    "238f58e3ea2201386af0.png": "d087f4d54ea25dd3676d10cf891165092fc31d89c9f76992eb6a7ad48711e355",
     "24479b841a10f93ab25d.png": "4a10497b6cd3d2591d7717a982cdc54b5cfdc61348dbef2b82783d9d16e54a54",
     "24b6525b552d6d1fe3f0.png": "3e7ad80c8cdd76e833b349472713d825fbe1958289180e31ae766574f8f57c8b",
     "24f274880659977f46c2.png": "ee717a8557f8c3b11d72186ed1ca3c048c36d2f01df3c85dcd35f33bdb886d1f",
@@ -7891,12 +8062,15 @@
     "2839da0491dd7dc75eea.png": "1e30e658cd850eaed1f497db912d4f4de58dba341f1c121a555f72905e8ca238",
     "294957a1b09a0408a91f.png": "61721c68f3afe21dff2b31afc65d6940101662d93f676591bfd6afb38501b9a9",
     "29eb1398890b956ad1bd.png": "c33154d5eaeb38d2deec93da8129a01418c17c7b4e4977852a0f927b5d820296",
+    "29ecba835d3a54a82aae.png": "1df035c6ea4436b9e6f4f54d37aa4a1ca89b8808568c711c942b4e3d1b754996",
     "2a8571feff53b39b8280.png": "a0a753c11cd6d30a92c61682f5fbe3386090cad68ecee20ea2e281a4d8d4c3f6",
     "2b74934432e50055ffad.png": "a6b4868be6506c4f049aff85a70896ca0078c8e0d65ea29dda51071243cbbc4c",
     "2de161a715adbe6b7ee4.png": "289e7de96a388034e0a963e9f3927f9fa5c2689a87ff0734e5b3aef7ec420673",
+    "2ec438fd562283e4fc8d.png": "534efba0399fd2b34f1e2b0f68290c513e09ee57f717d61f83d2d178607eb80f",
     "2f20e7f932a0b2cbf77f.png": "f2f83ff5c78270dcb952e9eeaa75c8a1bce710b2fcd9cd179aa275d90ece5d30",
     "2f22e2c823aaa56c5cc5.png": "c2ce9621ed1c33cca6644410b3d7dccad7b62d5784a0b5baa20c8ec89825d3ce",
     "2f74f5fd67f8e5a92c75.png": "2e30ea7f42f6f3c05b84e613d8b78f378b11bf5d31dcf6353ec5e5eb944b0ff2",
+    "30000c633877c9059d9d.png": "7eae9e5f919a28af7272da7f968557abfdcbf488e0318da577e92214fdfe27a6",
     "30a40348c162eb82f6a0.png": "3693cae2e655e2d771626fa4c14b68b2722eb288ae127599d786fdc659159f15",
     "31658d5344d383f8e19a.png": "69eb2153162a7dfcda09744fd39b5af7f2d9b8428a2e52de8328852927a2619f",
     "3186aa5ce00a9ed26f0d.png": "79839abc0315efb42e2d192e421d6892dce1978f77c89965719ccdfb7275dcef",
@@ -7904,9 +8078,11 @@
     "3324bdad2d73219cfe07.png": "dd410771f1532f1437c95c729f5d7c10a3f570df83dbb82a549a9a456ad414d3",
     "350007c6975eaabab55a.png": "ae321493e8e2ffe3d6347b48b07eb64989bc5049505a811770c7a573a776a387",
     "35a11bd87e876d756cf6.png": "450ae0f59fce58b37d5aa5d00b5a2ae0d99ab54da72c8b30409e37d31a664a34",
+    "361889862f97a520056c.png": "288767df87bb873a7964f39065f670504bc78c12da00f36704309e1a6ef544eb",
     "37bf1f58293be0644617.png": "422948cc6e12e7a4c893d978737593560d69a543937b1ad69d9fc9061ef3bc45",
     "386758c158a3259903b6.png": "4e87a0d9e40738df1677466b2994e62050cbbf7bacb53f0227cae770d9530761",
     "387bdbf89cd91c85a04c.png": "7d88ace87eb71f4ca5934f3216682c66a09ac0d38abb703bab2612427446127f",
+    "389de2bb27a5b15a1953.png": "54e5ef80912a76836fae62942fa5e71a65757fbe5392fafc8406cf2c60a5c5a1",
     "38bd35f19978cb60ea27.png": "3832b4ed329f9c6e86edaf776cb4e4527c8c202d6fb590b28cb8433a72f102e6",
     "391deff2ddda797a8da0.png": "1e7963c6d15cbb75376d9387466d1d95d1e47b24b4021499a5a172b4a61aab5f",
     "393759f727275a201751.png": "235beb7eb144671fa47f91ef98d2ceb33d6da443f11091c7780c88252957a4fd",
@@ -7947,10 +8123,13 @@
     "4d57ef3104bc1f458b42.png": "115709495148dff356ca04d7fdbb57a67ff1accdcd7a9574c278f52da9d70b3c",
     "4d6e0c6ed383daeda1e1.png": "b9ef910de6f143911be0aa5def04a4a23f3a6527ac4e858c7cd99fb3eaf582b6",
     "4dc8adb84bd9180e7d37.png": "2aecd83c2f839672bdd4700fcd27408a79adbf2b80a2db32f96b840618874a6a",
+    "4de515d13ae6a8638b10.png": "92f8bd663a6c62215e61c372c029609ea9cfbe5fe4d03962bb9142f5b3147cc9",
     "4e9c3b7fc3958687a57a.png": "40b6189e2398fb9bf9ed7ea02f421ad9c1c5d882cf2cac145d5e6da31b250d63",
     "4edfa7f4d425247d8df3.png": "cbc555f2bc4912940c8ef8ca6d50906619dd88a18c706bb0527a68aca5048d74",
+    "4f0d21f8b09a9a5429a5.png": "a4217eb5dc44bc11a22e41fdfa33567179f1569cb8074ba96f142d02c805fe3d",
     "4f4fe8f5395ff09ec33c.png": "d3ceae2dd1e94c406960632c2229098f98e44b383a5b8fe86cabd2bbbed57ae7",
     "4f63bb685b2d22054197.png": "b675d0f353bdaf756c3508697e095651eb3df659398dccdcd324fa83719e5d14",
+    "4fbbee73a752cfd8888c.png": "d1ec98bc742dc8455e79952e671a4b867bbfab15ff35dbee7eefd3beb63b7839",
     "503df85a83f724319697.png": "659336f05ac00d8d1fbfc90c4a0ce8b978181ba00426f443d2113ff56ce0f3ee",
     "504c3b87670751560e30.png": "3acab594de06e3e321fcb05f64d4c011e73947a5beef87d1913a0888d4bd54eb",
     "5187fae6cb3ad692de77.png": "a9865a417909cf80cc6d52aa91e781432b540d4d4db80ca72e5498e1519b6d68",
@@ -7960,6 +8139,7 @@
     "534f45a712b31085c8a6.png": "5fee662821d8b16c4839ae5deb591c31420a03e50e1938ec375e975c1047b281",
     "53d33b72310f25263e67.png": "39d145a35816ede168632e15d8f07510de7a07c4589cb6b02e235bf266768f00",
     "53f0b4198ebeb4f5d446.png": "941e883816dff16e6d498b2048dc000095b895e00a45fdbf0a586133ff0fb1a6",
+    "5568198b611f2590a9f1.png": "fe8b8f3f9cff8491f9ecf8738a43439c66627fa4921f277e932958c324fe953d",
     "560721ddc0e4b4e48db2.png": "ac3834c874bacd4aca7d929627e137cd84edf78200572e9120e46793dc55902a",
     "562f09df42031269ba73.png": "ce1134b33b2b2e93a5a29239191cde3f5f9ae3dc0ab208b8b979898ed3ef53ec",
     "565aa294c90b97e19df2.png": "bcc54747c61f970e7243686b3411433b4bbf68a99dfd9db37eaafc4342d6f534",
@@ -7980,8 +8160,12 @@
     "61a428575d28e086ec64.png": "0906bb3570e74a326bc44bd8e43fb31f68626541857b619fc2101614d86fb8a9",
     "621ee21cd280625f59d2.png": "8bebe1bf2ef9425e4bf5ef96f16be58557376368f0dffdd83a7956432fe4fa4e",
     "636d0998696b7b750883.png": "9909fe29c75b093c80953cc60f44e755b0750a218b38b0d5c749fc3272b2f7c1",
+    "63ab0bd1b07c2efa33bd.png": "0b15be0d706751e89e7ab55aedbcdc6bdd5b476deb671e137bdc3ddd8ca6f86a",
+    "6446a3572c859c2b3b5b.png": "57481883177bf6189c46366e899fe9c7f6741b49709dbaa78653c7cd65d7a036",
     "64b56c89992141332ce2.png": "83e3856fb7e6e459116c14414e4227f744567a7c824e00706fb6a1143c8a7adf",
+    "64d66ef76dc8dd0d97db.png": "a31645f185285a11777f346032948317064fe5f3f66866f39c063ec1472d4730",
     "655da72c2328cfe2bd86.png": "b13d66ccc079ab92eb533d48cb0580e2500e446ccbaf7a833cb44560799c7123",
+    "66738c662e77743b23cb.png": "48ccc000002af9c5c1fefd91d58ab62f6d76bec5b2f3ca95f1b426eb105b56a0",
     "67b2318041d084be81e7.png": "ac6fc4f5192b7bb539069050b193e7a0e2c9e883d04a3467d82e19230d28c00f",
     "689f7a799863c59d9bb9.png": "d1735d657a0e87f8e1d4834fe22655c137ab3d7fee4c72bc001ae31a415bb103",
     "68c543facc21ecbef196.png": "e0e9c89846eaa2bf7862f81093e751f9c2decad504c2ba2c71e64ecb32bba31d",
@@ -8002,8 +8186,10 @@
     "72dcedd9b96dd12bbc33.png": "65ec94a4fb2e0b91885f7209fdfa3f29a66660c00a3817cde117920a60fce87c",
     "7303076237265647ca87.png": "3ec1bfe9e18fc6023d46884ef51600157b500eab55c07757e61284efaa12075e",
     "73d26b0d5622c38051a5.png": "ef77e540dbc0c9e99df7b99d5e3b32f0d86e978956f3140da754a51d537cb5da",
+    "73ead62fe1225e226c6b.png": "4fcac94c0244becb279c08ffa5ca5242a3b80a054f578cfd60c55ce108493a97",
     "746001ffda87cc2f384f.png": "d243e644ccccf9fd28f8cf4e09a07e98a32ab4e51b0566760d8c56cf3eb65050",
     "748f4fda1ec8588c11a9.png": "b06e80091b3d623a703134684a1d21bf6ef94012931254c9036b48b9e856a2e7",
+    "74e6df87b0ed88c6b131.png": "268a91bf56c4268d93c6a4609da28b03b5d235037dd36f2603e2a5c85cd7b2ec",
     "762253b38a076733c9a1.png": "4ed448534bf8ade67882a562623b5e9868728501d9fc5d5c6c61d1e3ffa097d4",
     "768c3df4e70a1bc919a7.png": "0f7f01f7ba5115fff2877f4de1311f521b87cf453eb7d4c9bc5dd12013996882",
     "7715a5a825b29d2c4103.png": "1a45f4ee863dd3e5ec47ff94d1773f53db1c5b4ed7bb3eedd88f40695d05eaaa",
@@ -8012,6 +8198,7 @@
     "77d1477a5b460b2403ea.png": "2c424cda348c101b9e36ae4ee894adc4f67e5b22d366a8bb78ace1623ab8d9bd",
     "78070a821fcd50f00d38.png": "539a56f3c20ca0598a7f64e75f9e56b0c812f013a5403ec57d9446460b982508",
     "78874ec7e953cf5dd595.png": "e14eb2d9c7e1b4efc04a797c917f489bd0ad0905739e5e50accab78a88b7c515",
+    "79006748b2bb424eb1fd.png": "db7d3771368fce437dd8f36b51d188645364a409af1b60a872ad45ce17c63e8a",
     "79a31fd9de217bc02a5e.png": "0e5fad6cc09c768212ee001fb3fad172d0450e961cb3642746998c79c97ece4c",
     "7a467103cafc55ed3240.png": "bc5377bf78526f203231487fa4d45265547da4f29a4aa94d8e19e14b9f3f59e0",
     "7b2774794cf640cd32d5.png": "c4f867dfb60277f1e8362756b58fcdbe70829cb51c9231bade75f5b1ac79cf98",
@@ -8019,31 +8206,42 @@
     "7bcd6fecffde741e3456.png": "ceff4b17c34a4758714caa8b5ad6a5d8e23260339f180223893892c045c02177",
     "7c456f9ab7c35d8fa22e.png": "d97c76659d56281b0303f535581a77d064a2648cbc5ab81f23e840f85d05166e",
     "7fffeb4e07afbee3be16.png": "d538579f3f83db50c2fd3bfdea65947f2e34b6d408412aa7469862f1d31258d4",
+    "8052e1eda44413729a65.png": "c5087b1f11c2e3469f68eb7f3fef7e01d901e116178ed93d72e080a48edd6041",
     "81354ba6352011a38661.png": "19d2736d099771f1fe6e4f4eb2bcd1c18778c9770e230401e0382cf5eed99557",
     "8156d7edee710eab5f3a.png": "af33ac0231ad015154f9ba5d9d793045b942c94a6963a8d132c2f1065dfc5060",
     "818676308ea5203a6562.png": "2ef9f9ecf081fea620f4b60e753ba8b9b4bc8fec63fa4a88bdab983997c02b3a",
     "819a9573e700e3a9d813.png": "f65084d46768ef45ae04fc3e9d07868829674542b6a294f9517d1c2021e272f1",
     "832ca9dc8cad703c1a7e.png": "6a2ec54835022ec3b7ac0fe8c39b9c1115ef2af87d9db6cf7367675463d51b60",
     "83a3f37f4d21a2c76939.png": "c72f81a86e5d74ac142ae78e4673ec4af9c598a9eed256c66aff602994760f1f",
+    "84525cf1c4568190657c.png": "8f410632e1e2fe78cb8a850ee35a4b2b916f910b5f472144380ab0c218d2d228",
     "84860bccde54f4c1cf1c.png": "07952b5e24bc920eec9b394e7499377b15dd6bfd2fb184bb88aa7eb7decc46f9",
+    "8532c919972d071b93bc.png": "92daf3ff9bcc63324900badd41f9a35193fc0c40b92052b63a60259ac7d45186",
     "85a3c953d56ead0bd7b5.png": "52b509ee06b0d9db0d6d96f23cfc5d132cc6c3bede43314a5be8fba792315e12",
+    "85aed3853d2a092c62f3.png": "9ae8a808e22e956c8bf6eb8a61519965f1b38ca44185dd68dfbbc0f75a637ab6",
     "8675401caac7c5777e3f.png": "04a882730b6cd60ea03ba8c6f8663296db40049baafecc1c58bc6aa17fcf988e",
     "8704f8428cd84c23f1cf.png": "3c593bf4e151cab21aab4fd42e94e363182cdb53bbd40959c1942823ae3a638d",
     "87a452e6d73055896793.png": "8a249b9dd2873e69d3fdb173e6e22c83aaacc9aeea11067479d9ec7af82a7dad",
     "87eaf48fcacd57baf546.png": "0bc882f8bcc1032e9acdb734777da86b94e11280d71be5b7be49aee18db5238a",
+    "881d77cb06b4962af6b5.png": "f62b2c5841725af8842e93fb51167b9c92f7e3da346e3e1fd72c8a6fbf44faf3",
     "885a907e384ec4a59036.png": "b1201890a14879d3cbe2f7a3257e5ed8678ceddeff48d2c4e4ecb1991adcee61",
+    "8975ad49715901089a23.png": "d0afb3ad8e330bda43e2003ebf36e600f42f73472f9afb165d945eeeb01ebc54",
     "899325a23673f4dde215.png": "d14d0f1c8c6629dcb25723a829e1c821e397861744c94afa3dff9e7777e8e10b",
     "8a7356bab6abafcc631c.png": "aafa9a926c7d787fc5a26e2124efda19ddb4c10d919283332147b4a1ba42e239",
     "8b1b9854cad736792678.png": "336bd63181ddb21fafafcb137bb472ca9829d538d5e5a88c8b26dd6eeea184b6",
     "8bb1920cf698a2cc9d6c.png": "98ea9ae9b1add5e3bfc2e1f1f3b2b4397aeac44074e6971aeec11d98b4b2e46c",
+    "8c10c33ffcc3fc962fe0.png": "248ce0b97ab1b17157eb8a166ff38b9ba68e0118fa74d413339f4ad9e0142d79",
     "8c4784e05125b711b404.png": "23bce28385d5b09dc2663ea0041227d657e53d987e6ead9e489aec2e593f8f8e",
     "8db02fda916a504c8191.png": "ba29cb8ddfcdbc9bea9dbd9233b474ee7178cf8252eb8e99989d895e6d94ade2",
+    "8db1be21c32dff015836.png": "d3977b165f9fed240d2274ccd887101f65736befde9517f7e6a53da1ab92f4f5",
     "8dedfad287213e43dafe.png": "5b7fa69e6a1cdf2867887b9b45449282916ae33c4d60b046496879b117394e82",
     "8e5e7203484bcf469621.png": "03ea556067864ef2591f09e5c37ee946832c17cdbd171f51e49ae065eacec72a",
     "8ed64d4fc1cceee168cf.png": "66b570e602ddb20c5a531f0d12928de69f8fc6cda5f42a2835c29e182587b5ca",
     "906a856d67c4e6b40a9a.png": "b57896f04017869d67ec010be7e61cd8390a78511178fe80520c1773f7dcf315",
     "9108254537207a1c0585.png": "e8c22a4aeee20c8a9550e0f33ebf81ef09ebefa956f38fbd27e472558aa8188b",
     "91127d5cac18a31ded6a.png": "34d4914de28db0eb7129b79383b7ea0b47d35896e47e4d9e5d81fa55cb308565",
+    "919183979fb08b125b59.png": "df484b32de4f394c83edc155703d97bd36e284b9d76c61bc7749d510f636edc7",
+    "9252f55e308fab4f1a84.png": "a09e8cc1843b26414dcad20f6909d5874407a1825bd77d48a85ca642a7db13c7",
+    "9326651296ec21f922d2.png": "74d505211ef78cad356e94e577b47f1f3fce1f82c560e3c04fd5f14c4307cf69",
     "93339f4cee44ee9e9d82.png": "c3fc4cc2c4cf1b359b11f24301da2564fa84cc3fed69205145b1e91054e6a79b",
     "938eaf4bc66048b314ba.png": "ec66ab41fd02394321842afe5fa689feafee4bfadfb8485908a7f02a5a5a875e",
     "93c604a20d6d1cf7f6a7.png": "b6c21fd6e9fe19a7fb567a1d7e3cbd1e5ccf502db8d1446980d3105eb40a809a",
@@ -8061,6 +8259,7 @@
     "99d4508dfd9d8c1201cb.png": "f7955d5d47276b00e165146966859197f84d9c6aa979d27060e756a49c99ab48",
     "99f530d2200270cabf25.png": "01769b4906ed7a14d015039c348d1a3409e68734c8191d627d280d7e43945c93",
     "9ae054557c0cbaad8f1d.png": "2ec2dd97d754620d25960ac689276c95cc993a7841c7ec6ab5d2dce28900eb04",
+    "9c2051c7c55354f8a2ee.png": "24907b0ae321869541d826c336cc08dfd19ebe1dc18c6c2b975baf28ab7b50a6",
     "9cb970149dd98a33c71d.png": "f2c3f0c9db4c627f7717a7649f200f8c604d747061307eafa4a387247ba391d0",
     "9cc29ae814646a535dd8.png": "46071d00102709163d64e189053b63f322d6ec28ebb1ec1b8554da29ba81a0c1",
     "9cf40d751558d3d07fa6.png": "c222952fef30ad85868856ef00b63b61bc706de7f9c89edb90704a69d70ac5bf",
@@ -8070,13 +8269,18 @@
     "9fd1899d6801a1259a0f.png": "022603a782cea2c848f824a347725b038efd1543d0905327cf7f99e560351b1e",
     "a030b4fed12c179ac8ce.png": "89f5914f4708a26d4972bf2ca19cefa7e742e693d39f88ae04df148aa927a563",
     "a043b274572f85ebe49b.png": "c84433b9614bf77a84ce334f3f71d4a1277fdfd2e9d1cc28d6bb75cdeffd3902",
+    "a0ac7c3c4b38ed587e71.png": "bd73145bfe25e1052ad099af13a3b2a85ab23b5c2b13496dfabf4f0f5bb64b27",
     "a0eaee35bf1860a70a36.png": "54fe4e16bdf0ad49900917c3b61d838f8f7a57e0cd806e385cd898290b1f261f",
+    "a21a5545711833b00490.png": "42eae2e4f5edef07ca8312e8105a85f0b9b6f00d86b2baf442cb253e88a613b5",
     "a3032de48950a81d504b.png": "a34a733fdcfff4217581af5e568127bb84cbe1554886af9c893fc4b4e36795bb",
+    "a318e515ac38a22e7e18.png": "f7bf1bf085b12fd00b53678482d1628ce86cb841f4d773dd2fc6fa49af9b09d4",
     "a3ccc526470e68637bf1.png": "581d93f82c99c3be7a3a002f3859d63dd788957c3e016f56268ecf33c444676f",
     "a4acf160b971050690e8.png": "a58be1f15c3ead74dc789c84985d6c42dc234a264a54cd76c4ec566284556fc4",
     "a50759035a9413f99338.png": "70f7c87c3a69945f5f7b235ffd349ba1645f3ed7fd96740caea265c41b522f9b",
     "a52370dbce74b130b718.png": "049f7eaee8c9adc87bc3d6ef1fadb2223d8e507e6cb4dfde9c91fc0526e965bd",
     "a6ae5e9d92765b45a5af.png": "9e0710806fbb48037d4d43beec8dba1e6962e830438e2e474e576ab472a12465",
+    "a6c485260e33d70528b3.png": "65dfec3ae0641b4c1eaec824e1fa0b2d8da736ef13a8f15edf469e14cbed0ee7",
+    "a7357d3bd874dbc20fd0.png": "3809a809b6e0dee36601de78afae62a1888795edfb93e3bee099b22ab476a2b4",
     "a7950cf64524a4b57c4b.png": "1bdf5336ee1d08bdcb2e1183ea057a81676e7026c475802e0e22dc5869a2f0c9",
     "a7b5d626688f471996c5.png": "eb114769ec1a6cee3a0212550907a41bbbdc152e72de1768e59f309b45652b31",
     "a7cec7327bff875b1039.png": "db78bcfca3b487868a7de01eb38aeaf9084d436b8d3e28646498fa1f5249d946",
@@ -8084,12 +8288,14 @@
     "a985f279f05ed9b7c280.png": "2e9b6cedc2bfea7088d855c24a34cba8a500132c9feb158dfced2dee6bbff801",
     "a98cb762b0beda2d224a.png": "3125e2459ef2c425e216d20225e2ee3649790cdc4635bfcbf91ff06a24a9685b",
     "a9e62e545e5a23836f56.png": "3e2f2d5a6b189d704713c3941e0183e0139a52c6e56a3791c09e5007c8f093bd",
+    "aa6d313b3895ab6aab88.png": "9fe224356d124a66c719716eb06233f7dcd5835099111865899a83c760f78cc9",
     "aa99c438638a9d8d6ce5.png": "5216e68c33517bab97ae92ab77f30635ca8ac7546d2f22e309c6f3cefc0fc103",
     "ab2616822909fa228863.png": "6f6cbb39101c07be734b86b5e1e0a38903f17c3363db585a23bf03c9c63e732a",
     "ab283df47db4c1cd7475.png": "6fad5ea582b1dadf54ecc7ea3ed390da742165375b4559eb8c62e892d951a39f",
     "ad0ceda2cbded3e29ed5.png": "c03d5c14b904f2efcb63e1a7628576221f7dd1450fbfd1b7bf611f4d71270f5e",
     "ad3d8a3a1a5b880b7d70.png": "795382b1fa61293708078ec5cea158ab668b8d462e8624bee04e94abd8876cbc",
     "ad5f8f13516e422359cc.png": "461dd5f14e1fd65031291ae5ee7b3f8cb61bf8cf12137fa88b651b63434fff83",
+    "ad9ab0a18fb716a880e5.png": "affb5ffeb3ffa49d662e0ac422336dcb632502883afdebcd97ff57acdba02951",
     "adedaa877979391f8644.png": "5549bac167b67e217cb7c755d34e4a586d3a0d991cf28662ee43824bf7819ae2",
     "aeb203f48202ed75bc6c.png": "49bb8216997e9b67066637a9fcec2df8620eb2bd9f5c8800bcaab22742b2d1dc",
     "aecb8313ecaf1c15600b.png": "8540dd3c503670edb03600542d3a898f7c7d6db110986700fdbf03a4dd37611e",
@@ -8099,6 +8305,7 @@
     "b0db6464cd763cbc8bf6.png": "5755dcc120f96f402a539bd1f513a35207427f2c5b8e0bbe1d26cc4e962a02e1",
     "b13474e97239cc8032dd.png": "8040183280028485061c982d30fe92968f156d217ab20d4cce04cf7d4c8d9cd9",
     "b1a496457c981a6d740c.png": "d8c50944f6691db3e20cf92101cefa6c24f5ea79653f138deecacc00b3f149dd",
+    "b24f091694011f615228.png": "30f5efa5aaf9e4ab853b45f2a3968e1a82fc934f3b4d3c3a39f92e114dbe4598",
     "b24f5dddf3583bff635b.png": "aed00710ed862492d732777c8eda5c054870e9f9ab8bef7b5a26a2d7ba59eaa9",
     "b28b3dface7eaea8b4bd.png": "c58a17c5ffdad16c1482183cb7f2c85c73f867d35e0cca7eee3fe16521b52e78",
     "b34124e4cde8cc948d99.png": "321add2b68acc8dc66b47b42f92830111c84e45403e08283757e428ae84cc3d6",
@@ -8106,17 +8313,23 @@
     "b3ab90f30040999fa761.png": "92c3ce1b59b42682703be07d0b53be8c9491ae7825ae0eb3cd380a4a640b3dc5",
     "b3dd8d6b9eebc6068b25.png": "92c8dd3162bcd91069360b681c302636b3fcbab5fd9ac2a957e1f2564ae816b7",
     "b4de0559737bb78be5d7.png": "a8ecc6c2d2b544507861069f81c11ce4fdf4a776b781cae56baefeaaaeeac429",
+    "b52c0a4952ed70abab5c.png": "4db43d0cc93de889d8e39a94b8c3c548c706325330ab4d1e5517e0a899e6df9f",
     "b5eab5498456ff3ff13c.png": "e037bfb76f8f01ce64d9298dbaf620461d5565539b5917fa997c091c2de84996",
     "b776608b55fc224ff247.png": "789cf949a2373f68ff562b56bc77c75e9fb2bca903469100b5c72c57bfd29aca",
     "b85221fa17a84fb7b7b9.png": "8af02abd7ff393118d1c2f9defbd15255b328963f18f0bac54a9dcfb2128158d",
     "b88d8a141dbfe2e3e686.png": "0a557b90403e300f75f8750fd668a7263a74220ec8ad37a784f7a5b49c469b99",
     "b89766eda75fd7b05622.png": "3bc832db77a0497d03f371a47d321e0c20458e6fcaa9feca90b929cf9d517ea2",
     "b92c720e746530452751.png": "0566b486f2bb6988ae64e824a646cd84063ad37aa6392806209a3cfeb9300dbd",
+    "ba0bedc234325adc6802.png": "6aad6c1186e528a36abd8af54be1d7c3209f59b5165fed7c19f2a9b3ccb0607b",
     "ba8cb53342371058b128.png": "7c448f43a0bd357092f3d0010075d79e61e6f509472a2074b4ee26e1c5bcebbc",
     "babe1deb6a0ede6bbb4c.png": "b50d236526d98d3eab72f895d054d7b9e0ee1377e72baf32cefdc1727cf0e4b0",
     "bb30aa66dc96b4a64dfb.png": "5b19528ebb731083c45cac2fca71f36cf08f9ce6adebf13f8b1b25263b1a8f80",
+    "bb380d9c86693456d9e4.png": "85ae36090a2ef70360795799dca17953216f2aaa03fc1be73836d7c6303c2c80",
     "bc4b1016901545bb519f.png": "8bb4fcb1376bc9ac9cee58f6cdf4988578adb52461bddfe6f53042ee0ea3e1fb",
     "bc7843b59264b0b2bb04.png": "f1403a734e6d17d0791abcf47f9513ff99f8faa7ad2cb8183499449338c9b5b0",
+    "bcd3245d57c9e2a3a839.png": "7fb392d200183032d84570614a66aee8167094ba4832aa7be0c11bb9fd325a54",
+    "bced0913c66845d94246.png": "862cefc5cc3dbbeb70d5c531b8e6576839004ee0c0558d8f67af272213e6030f",
+    "bd92504d10e10847bb32.png": "4eb76d2c9d9a2d836194834517094c74aaf180cf33ff0ee9a996ebcf768eb0ff",
     "be657219afd91e5e0895.png": "02b866edeacd497663f31d7271bf97be6a544ed917901907df7009840baf01ee",
     "c05547d1fd9fbd21feb2.png": "ec188622b39e69c83fb8a5af839c6d60be14976e07e817c51debef0c28ee7762",
     "c06f2e450e762c81165f.png": "ccbd63d01e8128d3b8d4260ef39ff5e73659691a61044b87756f3a706cbfb08f",
@@ -8126,10 +8339,12 @@
     "c48ef22b4c89a1152b1b.png": "3d6bdc9b48cbe99de8d82b3da059b2f839de49351f46f9377afedbe17eb55717",
     "c561431c26dd6ed5909d.png": "207f107886fb710d758fcc1a7f0eff833615a4881b5fefbc2566b28b82a1ef81",
     "c59693ba5219b35584a6.png": "746a518d35a477517a0f96f6f68b2fce9f827bca2ed27ef035ecd7f64a1f1624",
+    "c5c71eb12346af37786a.png": "eed0eb82cbdf1ca26773d15ad8bc48412605c38733c29970baac728d5edd2076",
     "c5e50d06081840ae50cf.png": "b03df3e6dcc5d9db89063e576c6bce58d91ebbf2f760bf3aee9ce8131ea13f11",
     "c68922e4a0cccd64183d.png": "8fe23f359c2ecd9ef4b79d6e36b2b60b6d4c702ae6cd2f2bbc84d641a6fd684f",
     "c708ec023e17056d538e.png": "8c10f5f8e8d29e26c6b8713edd4f16c183ccb57d4baf5c5b19b28a2e4c0b1cd2",
     "c86c9e00b5bc9a688a22.png": "2d9c42b067cebe822a477602052dc1ae1c05d80b9a1bc38dbb0591dcca39e3ea",
+    "c88dbd2a049edc617831.png": "ff0af9b8d63da223ea0ce4a14d572318cf99bba36c12e8d69c7abc52b42114d2",
     "c9b43a2b88d341e2ba92.png": "3fa9cc5ef59e7a9490899525746fc99b87ded9fa286907e4e6e369b3accf2e7c",
     "caf3e081dd39a5f68d00.png": "1db77d7381eac512feb6cb563b911c54228c64228bdfcd8434538795a7bf9da2",
     "cc01f7b366cfea3115e3.png": "58c52df00b56d7ea1e561aceb8412940790c1a625e7067487289b4692e967bcd",
@@ -8138,22 +8353,30 @@
     "ccd83c57c4982b116211.png": "09a782f276f8b46d9e4cef2fc3360ac9eff50b9378a2f57e058473dce395156b",
     "cd3bd56256ebc5152d24.png": "8af36e49f84393b4d61e50446e579376835f913bcfc0c25e3e57bbf8a336528d",
     "cefecdd9ad7a942906a1.png": "37898f9bb591e81518230473c2fdbde81da5518440446a15601504aa039710d8",
+    "d0a8fc1fb77cbf42c44a.png": "a26351a19bba89f227e516728de053a399a13df91c1578e8aa5e498e58cce7f0",
     "d0b248bb6dd0e4a2e376.png": "e937d7e152f1364106f2aa993566af3d772005d59233e6ffdfd1dd6a2f1b4043",
     "d2f58ed739981860d41c.png": "fef1ecfcd146ad24e6681d87c29511b1b3bd512b759e2ef823f98604b5582001",
     "d3a4e687bcd8971ced22.png": "385c7048e702a33324465aea71399af6bb083f93d5ca30c5fb8b2c7708f2d438",
     "d43ef619e320fd2cb9dc.png": "37b3d36d0823dc08091d871bd717ee7c7f91f9380ce298d9dbdc086f11309e08",
     "d483ba0e9867853963aa.png": "c30eae95c31fa3ec382d29d256a82d3fc0b80e51727a0fd0caac788b82c7814d",
     "d5d29bf248d99640b23e.png": "36ff4fa33f76f415445c1affdee19f0a7b8d53473c722d707c33e8532d31ef05",
+    "d5e6af467baa752697fc.png": "427b1573bc5f1a9ea007567d2795dae489da8920a7f3130c246e2971fa993c07",
     "d76f15e951b060ba39bf.png": "c95bafafe31a09805d3b55c2a5bfc971db0898497b988e7e1bdd01405bfa7230",
+    "d7785ca56bb0820b6c84.png": "487edea5a574aff41c865d6a2fcd939d85801a107d0b396aa1e1c49d0370a7e2",
     "d914c119a322b8df7181.png": "9550f6e5fa0f5b538a05c007180a3d8dd3c3ef5d67fc15746a59130da8383852",
     "d955e075a26c99abbc55.png": "3c743db66416fb25bee6b3f000c24466cc28c1d30da688f6d3f0409c0911361e",
     "d99b059ae3197dff2822.png": "f1481a38f7d6a43347718a018c7c6791dab314b390ad4805dcb4a6c0ca18ae50",
     "daf3fea52a527b9a0917.png": "4f49afc5ca7b7afdf8d466d0e944d4446fff3b1d0cda27956f1d2d980b880cda",
+    "db06d37d10f3f98f6cb0.png": "9b1da6658119d7646206e93e1eec188865d098d9574a8eecf510839e75576c32",
     "dc6e02edee9ded01a69e.png": "5ce1ecf9599e3e288e1ceed704dbeedf9392a51492a4791147e9a80609644e3d",
+    "dde90e9863329e96bf59.png": "4a689acccf9919351e1580c76aa3b7c6fbd952b6572f9f067ffc22a4966d5cdd",
     "de11aa8e17de21b17d90.png": "e8f28a907698d0c1ce6a3071c85e34850b2575dabdbd456454a9122f92d04901",
     "de202493a4868b183083.png": "8c7f449e796ec77f034d0add4f6df53fc94f987b595f4dd08bfe1ae143bcc633",
     "df95e24f6f69f6a7b7e5.png": "937995a688da188ea6b5f15825d9a13b0d34c5522f767e33f5bbc006b82341c6",
     "dff271cdb3aa2dcb0a7f.png": "34dc910ea6ad3f085c7e2b093cf1074afdea55d0afd44deabb360827a559e3ba",
+    "e03ae1363b55443e624d.png": "ad5e9643d87a3b23d8aabd871896a74101505ea15da27d42c281b00300f6b9b0",
+    "e19d4181ffc8c4a70a80.png": "02cccb3be62be43cfa456dec8179c8bfabe183f743e8ae7fdbef01512ea51a93",
+    "e1a79b7fd1027502cc95.png": "4bd3f58cf4653085ddf4b458052dd9978da2916974852280941a6c701c7b6ea3",
     "e259ada5217b849310fc.png": "9b0a60939c052a96745e32033388c97e328991be5101f901b457b89bc82f217a",
     "e288bca3d19c6494fd28.png": "d10dabdc545c58ed52219a1ef52456f5a71831e87cc542472ffcc5743ef7dad7",
     "e2b5035223bc8086f6d4.png": "a77fe2e69e94aa91d300d4f233f9b4c59197d504261fa3c7c22fe4df8abd7d6a",
@@ -8170,9 +8393,13 @@
     "e5ed2c1470e856e648f5.png": "25fb25b1d0c9a54c5ab59b7021dfb4148e434bc1ee4996c2d3c5d3c98b6a7d84",
     "e698a68e32d67cb88ce1.png": "ae65d34b3748395a9ada60e35b66a664768f5077d79ac4a13913b8509429df97",
     "e79998e54f5699eafb62.png": "1f87a361062076967a774b9a717292cd08c656561f436eb7121d806bfd019740",
+    "e7d36ff70235cc5868b2.png": "f423463affb58e40ab6d9493f4a6962b2397742718f30ca2bbc150dcd4ca2b5d",
+    "e886849fc61c9dbd6257.png": "458105ce5215bf54be44fde14509bb10703d9bb7f04c119eb40125ae8b762715",
     "e8b3dd6eb5c2ce07e360.png": "c282ef374d9d5259aa8f6572d91bdb52dc03b98eb125c76bc9d800410398f364",
     "eaf500156835eea93988.png": "47757b66354203c76f75f9d35b0556e5696dae04e3dc3d3b7a1de877e76e1985",
     "eb61e31d1fc82b923c2c.png": "121068efab34a4d5d581cdf44afe85454751a1659ef593b33431f1d7f4a48ef7",
+    "eb6af293baf0f5412905.png": "e9fd870476716d0b319c2a11e573fa11968124861492039b56edec67a2a9f787",
+    "ed482d653323ade030e5.png": "3e883a62eacc3abb03a5b62fbe346a30d9b4121aea04eb74dd4085e0f56956ff",
     "ee0a8ec1203eedc20a19.png": "eaeb76aec875fdb6c2cb3f8f914fbf70da790997edcb7d9cb4740492e565c9eb",
     "ee29574798443551268a.png": "b17077724ab7645d6ec7eee5226b30052699c0461ca1590a1749e34238cfac16",
     "ee6dc08e189c783cbbc3.png": "787b5bed7fb58623bfa8f27cc6d83e24b1c17983d9162deb01f714204e94873e",
@@ -8182,6 +8409,7 @@
     "f0cc1cfe0c805c8f6ff7.png": "43bdb9f3105dfd8dec2d78b85dbc837a882b5e22f3da931960a5e55601447cba",
     "f102c6833e28daac29fc.png": "bc088a600640cc38efdab3a0f9a90d11a4d1a0bfaad03aecba1cc6b667c927a8",
     "f121d6c6fc5dd3b1c63b.png": "a41a745bda998f71825d0fcbe4282e855eae568e6f298b9c0520791a6947a73c",
+    "f1e13a65553368f63868.png": "fb5d51e69ec3a56f4803d4a0f83b41a681fd984ac2b77fb1ae8fdb492e193fd4",
     "f300edadd64df45888a4.png": "767269caf3b6bd501b0bdc27c9c65fc10d6ad4f2c92ab76daea68c1aca221bcc",
     "f3fe67a6b126ecbdd30e.png": "83e1fbd17b248799287e20d4a4c7e891cb3b9f2db5353ddf5e6139be443c2e8b",
     "f46186959e90463b21b0.png": "787fc7e2f9065e0004a3c8798ef4348f07c55cbc61499a40bf2143d157e4b1a0",
@@ -8192,17 +8420,22 @@
     "f6ad7c812d11cee9884b.png": "a0a82e0941aa0b42903426e5ea8d74ba7e617f9984031482d1bd90650cfa9398",
     "f735d36b7ffded6950db.png": "733693ab143a18a1e6cbebb3523d559908e89a1650035c66c3e247addcc17a2d",
     "f7370dd04fe32c103caf.png": "15fda1294040981e339ee5c2f36908f8792dc463fb3397c2692b3ed0d4ff4815",
+    "f95115d4e645f98dae22.png": "ac83c823cb6d92de1e13a50d4d6d4d320deb6edc8d2dd84bae9bd7f2f81ce6ed",
     "f96c7d2dab6c1dd7b086.png": "c1f8d8fb563b2f5cb588bb74a1bd9e8fc3c1e947f0af7fad8f0307ecb232b945",
+    "f970ee6d411158ace243.png": "de319bc0cf8f209ef1af5711640dc168d17f10e3dda502e30281c7c03b284a80",
     "f9a829ba37b795a21e6e.png": "8f22a9ed705e5ae57b59154da3e919c783310fe1255b28c81ca691d603bdbbcf",
     "f9f4e71518d82b0e54a8.png": "c497a616000f369c0c923c15ffdb27e45677a1c4322af449a0d78f2b5f8ff718",
     "fa0f342cddc9dc98615b.png": "7b200d180a7864898734014977f0d79340911a2a34fd910802018f4f8c159c1b",
     "fa1ddf6cf1f84b6bccda.png": "fb0311af49a297b1b0488f628f6310527d1d280ef8baa36bff549d4ae0b9ab96",
     "faba2897a8c418ed5ee6.png": "501ee88ed4f7a50fb8e3f95182962a66b967e1d35a8bf09ae00a9d063600a5ab",
     "fc1b855984130526b52e.png": "c76a7d47df5641d58d455d36d3a549045b565c33c170c2f7ba93af7d08d946dc",
+    "fc53aae2c49f93043006.png": "a0b89e97e4664591472da285348f166d80a3e7384c10e69c97c822ffe8d85105",
     "fcfda87e012758c0035b.png": "13bca43fe41e122064597e16a9c0338f472ea3f3fbcabcebb4e8c920594e250a",
     "fe15f138d489c441194d.png": "b35ce96119b7085fc84cf169554a8b6efec1e6b8d0b5dad9578cded7da221b1c",
     "fe1a0acd7c99fdc64caf.png": "5ef8da322b965f955fb926bcce399b14de21561ed7919b691c456b4401a21e7b",
     "feaa515799cefef3fd7a.png": "df813b16310508063292413a48a38d1fc23b59350f7de47b2a4d8e3b851cfef4",
+    "ff22f8f267c78a995b5c.png": "9c794a148a5fb415d886ffe850eacfb9e3577d9b3721bb71e3406dd7e76ae129",
+    "ff5aadbca10eecc05810.png": "491b6c7fe38249c263776ea3bafa5b024b583e3201abe9a7a1cd7783a754d052",
     "ffbb61dc4831bd6dd782.png": "4006ed93b39a1676a8e046461a45ab6b6772cb0a7d10005efed0ca542b8a6e47"
   },
   "uiTextures": {

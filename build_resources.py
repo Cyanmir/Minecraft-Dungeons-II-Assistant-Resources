@@ -2,7 +2,7 @@
 from pathlib import Path
 import argparse, gzip, hashlib, json, struct
 
-def build(assets, localization, output, revision):
+def build(assets, localization, output, revision, effect_table=None):
     source = json.loads((assets / 'inventory-resources.json').read_text(encoding='utf-8-sig'))
     tables = {}
     for file in localization.glob('*.json'):
@@ -13,6 +13,21 @@ def build(assets, localization, output, revision):
     six = ['zh-Hans', 'en', 'ja-JP', 'ko-KR', 'zh-Hant', 'zh-Hant']
     names = {tag: value for tag, value in source['names'].items()
              if tag.startswith(('SW.Item.', 'SW.Effect.', 'SW.Enchantment.'))}
+    index = json.loads((assets.parent / 'catalogs' / 'item-definition-icons.json').read_text(encoding='utf-8-sig'))
+    effect_icons = {}
+    if effect_table is not None:
+        # 只导出有译名的效果行所引用的真实图标，不通过英文名/装备分类猜测对应关系。
+        # 原始效果表仅作为本地输入，不复制到资源仓库；空引用继续明确留空。
+        textures = {row['package']: row['file'] for row in index['textures']}
+        rows = json.loads(effect_table.read_text(encoding='utf-8-sig'))
+        for row in rows:
+            tag = row.get('TypeTag', {}).get('TagName')
+            reference = row.get('IconReference')
+            if tag not in names or not tag.startswith('SW.Effect.') or not isinstance(reference, str) or reference == 'None':
+                continue
+            package = reference.split('.')[0]
+            if package not in textures: raise ValueError('Effect icon not decoded: ' + tag)
+            effect_icons[tag] = [textures[package]]
     # 原生 SpringStone 的游戏显示名来自教程词条，不能按代码名自行翻译成“泉石”。
     currency_keys = {'Currency_Emerald': 'tutoriallog_emeralds_title',
                      'Currency_SpringStone': 'tutoriallog_springstones_title',
@@ -39,7 +54,7 @@ def build(assets, localization, output, revision):
         labels = [tables[l].get(identity, english) for l in six]
         missing = [l for l in set(six) if identity not in tables[l]]
         if missing: fallback[tag] = sorted(missing)
-        icons = source['icons'].get(tag, [])
+        icons = effect_icons.get(tag, source['icons'].get(tag, []))
         files.update(icons)
         items[tag] = {'names': labels, 'icons': icons, 'namespace': identity[0], 'key': identity[1], 'sourceHash': identity[2]}
     keys = ['Equipment_Melee', 'Equipment_Ranged', 'Equipment_Helmet', 'Equipment_Chest', 'Equipment_Leggings', 'Equipment_Boots', 'Equipment_Artifact', 'header_power', 'header_gear_power', 'inventory_sort_rarity', 'tag_equipped', 'Label_Enchanted', 'SW_Rarity_Common', 'SW_Rarity_Rare', 'SW_Rarity_Special', 'SW_Rarity_Unique']
@@ -51,7 +66,6 @@ def build(assets, localization, output, revision):
     for label, identity in currency_sources.items():
         terms[label] = [tables[l].get(identity, tables['en'][identity]) for l in six]
     # UI 品质框来自原始纹理引用；只复制白名单，不遍历整套游戏资源。
-    index = json.loads((assets.parent / 'catalogs' / 'item-definition-icons.json').read_text(encoding='utf-8-sig'))
     wanted = {'slotBackground': 'T_UI_Slot_Background', 'rarityMarkers': 'T_UI_SlotRarity_Markers',
               'soulMarkers': 'T_UI_SlotRarity_Markers_Soul', 'stormPip': 'T_UI_Icon_SoulStormPip',
               'rarityCommon': 'T_UI_Rarity_Common', 'rarityRare': 'T_UI_Rarity_Rare',
@@ -96,5 +110,6 @@ if __name__ == '__main__':
     parser.add_argument('--localization', type=Path, required=True)
     parser.add_argument('--output', type=Path, default=Path(__file__).resolve().parent)
     parser.add_argument('--revision', required=True)
+    parser.add_argument('--effect-table', type=Path, help='本地 DT_EffectDefinition.json，仅导出真实图标引用')
     args = parser.parse_args()
-    build(args.assets, args.localization, args.output, args.revision)
+    build(args.assets, args.localization, args.output, args.revision, args.effect_table)
